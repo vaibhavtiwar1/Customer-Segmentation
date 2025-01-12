@@ -1,11 +1,11 @@
 # Customer-Segmentation
-Problem Statement
+>> Problem Statement
 This project aims to optimize marketing strategies and boost sales by implementing a customer segmentation model using the K-means clustering & DBSCAN algorithm. Leveraging a transactional dataset from a UK-based retailer, our goal is to transform the data into a customer-centric format, creating features that facilitate the segmentation of customers into distinct groups.
 Through this segmentation, we aim to uncover unique profiles and preferences within the customer base.
 Subsequently, we plan to develop a recommendation system that suggests top-selling products to customers within each segment who haven’t made those specific purchases, ultimately enhancing marketing efficiency and fostering increased sales.
 
 
-1.2 Objectives:
+>> Objectives:
 
 • Data Cleaning & Transformation: Clean the dataset by handling missing values, duplicates, and outliers, preparing it for effective clustering.
 • Feature Engineering: Develop new features based on the transactional data to create a customer-centric dataset, setting the foundation for customer segmentation.
